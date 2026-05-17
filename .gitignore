@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+deploy/package/
+deploy/lambda.zip
+deploy/.lambdavenv/
+crawler/.venv/
+backend/.venv/
+.DS_Store

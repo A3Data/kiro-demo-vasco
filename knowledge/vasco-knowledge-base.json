@@ -1,0 +1,147 @@
+{
+  "time": "Vasco da Gama",
+  "temporada": "2026",
+  "atualizado_em": "2026-05-17",
+  "resumo": "O Vasco da Gama vive boa fase no Brasileirão 2026, com 6 vitórias, 2 empates e 2 derrotas nos últimos 10 jogos. O time mostrou força como mandante e melhorou ofensivamente com Vegetti e Payet em destaque.",
+  "desempenho": {
+    "ultimos_10_jogos": {"vitorias": 6, "empates": 2, "derrotas": 2},
+    "gols_marcados": 14,
+    "gols_sofridos": 11,
+    "aproveitamento": "66.7%",
+    "sequencia_atual": "1 derrota (última rodada)"
+  },
+  "artilheiros": [
+    {"jogador": "Vegetti", "gols": 5, "assistencias": 1},
+    {"jogador": "Payet", "gols": 3, "assistencias": 4},
+    {"jogador": "Philippe Coutinho", "gols": 2, "assistencias": 2},
+    {"jogador": "Adson", "gols": 2, "assistencias": 1},
+    {"jogador": "Hugo Moura", "gols": 1, "assistencias": 0},
+    {"jogador": "Léo", "gols": 1, "assistencias": 0}
+  ],
+  "resultados": [
+    {
+      "data": "2026-05-16",
+      "mandante": "Internacional",
+      "gols_mandante": 4,
+      "gols_visitante": 1,
+      "visitante": "Vasco",
+      "competicao": "Brasileirão Série A",
+      "resultado": "D",
+      "gols_vasco": ["Vegetti (38')"],
+      "destaque": "Vasco foi dominado no 2o tempo, defesa falhou"
+    },
+    {
+      "data": "2026-05-11",
+      "mandante": "Vasco",
+      "gols_mandante": 2,
+      "gols_visitante": 0,
+      "visitante": "Cruzeiro",
+      "competicao": "Brasileirão Série A",
+      "resultado": "V",
+      "gols_vasco": ["Vegetti (22')", "Payet (67')"],
+      "destaque": "Domínio total do Vasco em São Januário"
+    },
+    {
+      "data": "2026-05-07",
+      "mandante": "Vasco",
+      "gols_mandante": 1,
+      "gols_visitante": 1,
+      "visitante": "Flamengo",
+      "competicao": "Brasileirão Série A",
+      "resultado": "E",
+      "gols_vasco": ["Philippe Coutinho (55')"],
+      "destaque": "Clássico equilibrado, Coutinho brilhou"
+    },
+    {
+      "data": "2026-05-03",
+      "mandante": "Palmeiras",
+      "gols_mandante": 0,
+      "gols_visitante": 1,
+      "visitante": "Vasco",
+      "competicao": "Brasileirão Série A",
+      "resultado": "V",
+      "gols_vasco": ["Adson (73')"],
+      "destaque": "Vitória histórica no Allianz Parque"
+    },
+    {
+      "data": "2026-04-27",
+      "mandante": "Vasco",
+      "gols_mandante": 3,
+      "gols_visitante": 1,
+      "visitante": "Bahia",
+      "competicao": "Brasileirão Série A",
+      "resultado": "V",
+      "gols_vasco": ["Vegetti (12')", "Payet (45')", "Adson (78')"],
+      "destaque": "Melhor jogo do Vasco na temporada, 3 gols em São Januário"
+    },
+    {
+      "data": "2026-04-20",
+      "mandante": "Botafogo",
+      "gols_mandante": 2,
+      "gols_visitante": 2,
+      "visitante": "Vasco",
+      "competicao": "Brasileirão Série A",
+      "resultado": "E",
+      "gols_vasco": ["Vegetti (30')", "Philippe Coutinho (88')"],
+      "destaque": "Coutinho empatou nos acréscimos em clássico emocionante"
+    },
+    {
+      "data": "2026-04-16",
+      "mandante": "Vasco",
+      "gols_mandante": 1,
+      "gols_visitante": 0,
+      "visitante": "Atlético-MG",
+      "competicao": "Copa do Brasil",
+      "resultado": "V",
+      "gols_vasco": ["Hugo Moura (62')"],
+      "destaque": "Vasco classificado na Copa do Brasil com gol de Hugo Moura"
+    },
+    {
+      "data": "2026-04-12",
+      "mandante": "Santos",
+      "gols_mandante": 1,
+      "gols_visitante": 2,
+      "visitante": "Vasco",
+      "competicao": "Brasileirão Série A",
+      "resultado": "V",
+      "gols_vasco": ["Vegetti (15')", "Payet (52')"],
+      "destaque": "Vasco reverteu pressão do Santos na Vila Belmiro"
+    },
+    {
+      "data": "2026-04-06",
+      "mandante": "Vasco",
+      "gols_mandante": 0,
+      "gols_visitante": 1,
+      "visitante": "São Paulo",
+      "competicao": "Brasileirão Série A",
+      "resultado": "D",
+      "gols_vasco": [],
+      "destaque": "Vasco criou pouco e perdeu em casa"
+    },
+    {
+      "data": "2026-03-30",
+      "mandante": "Vasco",
+      "gols_mandante": 2,
+      "gols_visitante": 1,
+      "visitante": "Fluminense",
+      "competicao": "Carioca",
+      "resultado": "V",
+      "gols_vasco": ["Léo (23')", "Payet (79')"],
+      "destaque": "Vasco campeão carioca com virada sobre o Flu"
+    }
+  ],
+  "analise": {
+    "pontos_fortes": [
+      "Ataque eficiente com Vegetti como referência",
+      "Payet como maestro criativo (4 assistências)",
+      "Força como mandante em São Januário",
+      "Elenco profundo com opções no banco"
+    ],
+    "pontos_fracos": [
+      "Defesa vulnerável fora de casa (4 gols contra o Inter)",
+      "Dificuldade em manter concentração no 2o tempo",
+      "Dependência de Vegetti para gols"
+    ],
+    "projecao": "Se mantiver o ritmo de 66.7% de aproveitamento, o Vasco pode brigar por vaga na Libertadores. Precisa corrigir falhas defensivas em jogos fora de casa."
+  }
+}
